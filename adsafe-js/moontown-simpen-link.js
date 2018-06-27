@@ -1,6 +1,6 @@
 //<![CDATA[
 var sconfig = {
-    safepage_url: "moontown.simpen.link/p/skip.html?hash=",
+    safepage_url: "https://moontown.simpen.link/p/skip.html?hash=",
     prtoect_link: ""
 }
 
